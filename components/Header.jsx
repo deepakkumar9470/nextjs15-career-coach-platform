@@ -29,13 +29,14 @@ const Header = async () => {
     <header className="fixed top-0 w-full border-b bg-background/80 backdrop-blur-md z-50 supports-[backdrop-filter]:bg-background/60">
     <nav className="container mx-auto px-4 h-16 flex items-center justify-between">
       <Link href="/">
-        <Image
+        {/* <Image
           src={"/logo.png"}
           alt="Career Logo"
           width={200}
           height={60}
           className="h-12 py-1 w-auto object-contain"
-        />
+        /> */}
+        <h1 className="h-12 py-1 w-auto text-3xl font-extrabold bg-gradient-to-tl from-slate-800 via-violet-500 to-zinc-400 bg-clip-text text-transparent">DEEPCHAN AI</h1>
       </Link>
 
       <div className="flex items-center space-x-2 md:space-x-4">
