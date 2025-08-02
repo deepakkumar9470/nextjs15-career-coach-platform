@@ -1,3 +1,5 @@
+// Start here
+
 1. Set up project by create-next-app@latest
 2. Set up shadcn ui
 3. Add layout, fonts
@@ -15,4 +17,6 @@
 15. Setup Gemini AI API
 16. Add industry insights data using gemini api
 17. Creating Dashboard with separate component
+
+// End here
 
