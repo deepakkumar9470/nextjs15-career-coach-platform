@@ -20,8 +20,7 @@ Next.js Career AI Platform
 17. Creating Dashboard with separate component
 
 
-<img src="https://drive.google.com/drive/folders/17JneHtIlvfft48KYpghczQKPeQr053vJ" alt="home page">
-
+<img src="https://drive.google.com/uc?export=view&id=1AbCdEfGhIjKlMnOpQrStUvWxYz" alt="home page" width="600">
 <img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_2.png" alt="form create page">
 
 <img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_3.png" alt="forms list page">
