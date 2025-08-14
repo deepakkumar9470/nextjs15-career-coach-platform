@@ -20,9 +20,21 @@ Next.js Career AI Platform
 17. Creating Dashboard with separate component
 
 
-<img src="https://drive.google.com/uc?export=view&id=1AbCdEfGhIjKlMnOpQrStUvWxYz" alt="home page" width="600">
-<img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_2.png" alt="form create page">
+1. Home Page
+<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_1.png" alt="home page" width="600">
 
-<img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_3.png" alt="forms list page">
+2. Dashboard Page
+<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_2.png" alt="dashboard page">
 
-<img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_4.png" alt="form preview page">
+3. Resume Builder Page
+<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_3.png" alt="resume builder page">
+
+4. Interview Preparation Page
+<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_4.png" alt="interview preparation page">
+
+5. Quiz Result Page 
+<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_5.png" alt="quiz result page">
+
+6. Mock Interview Page
+<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_6.png" alt="mock interview page">
+
