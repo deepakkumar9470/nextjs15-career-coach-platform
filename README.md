@@ -1,4 +1,5 @@
-// Start here
+
+Next.js Career AI Platform
 
 1. Set up project by create-next-app@latest
 2. Set up shadcn ui
@@ -18,5 +19,11 @@
 16. Add industry insights data using gemini api
 17. Creating Dashboard with separate component
 
-// End here
 
+<img src="https://drive.google.com/drive/folders/17JneHtIlvfft48KYpghczQKPeQr053vJ" alt="home page">
+
+<img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_2.png" alt="form create page">
+
+<img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_3.png" alt="forms list page">
+
+<img src="https://github.com/deepakkumar9470/React-Form-Builder/blob/main/public/images/Form_Builder_4.png" alt="form preview page">
