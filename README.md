@@ -19,6 +19,8 @@ Next.js Career AI Platform
 16. Add industry insights data using gemini api
 17. Creating Dashboard with separate component
 
+Screenshots
+
 
 1. Home Page
 <img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_1.png" alt="home page" width="600">
